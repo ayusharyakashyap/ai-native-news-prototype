@@ -2,7 +2,7 @@
 
 A fast prototype for ET Hackathon 2026 that turns static business news into a personalized decision briefing engine.
 
-## What this prototype now includes
+## What this prototype includes
 - Profile-based onboarding for role, goals, interests, risk, pace, and time horizon
 - Explainable feed ranking with visible “Why this ranked for you” reasons
 - Decision-lens sections instead of a flat feed
@@ -66,11 +66,6 @@ npm run build
 - `docs/IMPACT_MODEL.md` - quantified impact assumptions
 - `docs/PITCH_FLOW.md` - ready 3-minute demo narrative
 
-## Submission checklist mapping
-- GitHub repo ✅
-- 3-minute pitch flow ✅ (`docs/PITCH_FLOW.md`)
-- Architecture document ✅ (`docs/ARCHITECTURE.md`)
-- Impact model ✅ (`docs/IMPACT_MODEL.md`)
 
 ## Notes
 This is still a prototype optimized for speed and demo clarity. For production, replace the mock feed with live ET APIs, attach citation-level retrieval, add server-side orchestration, and measure recommendation quality with feedback loops.
